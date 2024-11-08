@@ -1,6 +1,6 @@
-# Terraform Setup for Wasabi S3-Compatible Buckets and IAM Policies
+# Terraform Setup for Wasabi S3 Buckets and IAM Policies
 
-This repository provides a Terraform configuration to create and manage S3-compatible buckets, IAM policies, and user permissions on Wasabi (or any other S3-compatible service). 
+This repository provides a Terraform configuration to create and manage S3 buckets, IAM policies, and user permissions. 
 
 ## Overview
 
